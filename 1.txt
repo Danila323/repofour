@@ -1,2 +1,2 @@
-Add new file
+Delete new file
 
